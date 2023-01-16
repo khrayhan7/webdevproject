@@ -1,0 +1,83 @@
+body {
+    font-family: 'Didact Gothic', sans-serif;
+    margin: 0;
+}
+p {
+    color: dimgrey;
+}
+h1 {
+    color: #d87093;
+    font-size: 30px;
+    font-weight: 800;
+}
+h2 {
+    font-size: 25px;
+}
+.linkedin-id {
+    text-decoration: none;
+    font-size: 15px;
+    border: 1px solid white;
+    border-radius: 5px;
+    
+    background-image: linear-gradient(180deg,tomato,orange);
+    color: white;
+    font-weight: 800;
+    margin: 2%;
+    padding: 2px;
+}
+.half-box {
+    width: 35%;
+    float: left;
+    margin-left: 7%;
+    padding-left: 2%;
+}
+.margin-pos{
+    margin-bottom: 3%;
+}
+.half-box img {
+    width: 100%;
+}
+.for-background {
+    background-image: url(images/header-bg.png);
+    background-repeat: no-repeat;
+  background-position: center ;
+    
+}
+section {
+      height: 500px;
+}
+.for-background2 {
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+#for-mpos {
+    margin-top: 7%;
+}
+#margin-pos2 {
+    margin-top: 3%;
+}
+.latest-work {
+margin-left: 10%;
+}
+.latest-work img {
+    width: 30%;
+}
+#cent-pos {
+    text-align: center;
+}
+.backgrnd-for {
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+footer h5 {
+font-weight: 800;
+font-size: 20px;
+}
+footer p {
+    font-size: 15px;
+
+}
+footer {
+    text-align: center;
+}
